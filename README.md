@@ -10,3 +10,5 @@
 * Trained on all types of emotion texts
 * initial accuracy 92%
 
+<img src = "https://github.com/Ashishkumarpanda/Suicide-Avoidiance--model/blob/main/stage%202%20observation/sentiment%20.png"></img>
+
